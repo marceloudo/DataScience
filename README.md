@@ -1,2 +1,2 @@
 # DataScience
-Hints in Data Science oriented by Megarom.
+Hints in Data Science oriented by Meigarom.
