@@ -1,2 +1,2 @@
-# DataScience
-Hints in Data Science oriented by Meigarom.
+# Logica Fuzzy
+Following the ZADEH's steps.
